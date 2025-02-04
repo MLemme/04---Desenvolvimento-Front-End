@@ -1,18 +1,9 @@
-//rfc
-/*
+import React from 'react'
+
 export default function Cabecalho() {
   return (
-    <div>Cabecalho</div>
+    <header className='Cabecalho'>
+        <h1>Aplicativo de Tarefas</h1>
+    </header>
   )
 }
-*/
-import React, { Component } from 'react'
-
-export default class Cabecalho extends Component {
-  render() {
-    return (
-      <div>Cabecalho</div>
-    )
-  }
-}
-
