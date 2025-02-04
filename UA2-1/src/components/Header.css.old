@@ -1,0 +1,8 @@
+/*solução do conflito renomeando a classe*/
+/*.container{*/
+.container_Header{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: 32px;
+}
